@@ -48,7 +48,7 @@
 ✅ BACKUP & RESTORE <br>
 <br>
 <br>
-♦️ For Debian 10 Only For First Time Installation <br>
+♦️ Khusus untuk OS Debian 10 Fresh Instalastion.<br>
 <br>
   
   ```html
@@ -58,7 +58,7 @@
 ♦️ Installation Link<br>
 
   ```html
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/vinstechmy/SSH-XRAY-Websocket-Multiport/main/V1/setup-lite.sh && chmod +x setup-lite.sh && ./setup-lite.sh
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt install -y bzip2 gzip coreutils screen curl && wget https://raw.githubusercontent.com/budijoi/ssh-ws-xray/main/V1/setup-lite.sh && chmod +x setup-lite.sh && ./setup-lite.sh
   ```
 
 </b>
